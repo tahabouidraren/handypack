@@ -1,4 +1,4 @@
-# handypack1.0
+# handypack
 handypack is a simple python script that is made to make your life easier by it's built in calculating tools (Math - Units Conversion...)
 - Requirment:
 All you need is python installed in your OS.
