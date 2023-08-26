@@ -1,5 +1,5 @@
 print("******************************************")
-print("All copyrights belong to @ts._.taha in IG")
+print("All copyrights belong to @tahabouidraren in IG")
 print("******************************************")
 print()
 print("Hello There!")
@@ -55,5 +55,5 @@ if app_choice.upper() == "L":
 
 print()
 print("******************************************")
-print("All copyrights belong to @ts._.taha in IG")
+print("All copyrights belong to @tahabouidraren in IG")
 print("******************************************")
